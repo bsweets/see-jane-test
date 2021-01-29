@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Suggestion Type" max_length="40" name="x_126321_suggest_0_suggestion_type" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Suggestion type" max_length="40" name="suggestion_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Suggestion type" max_length="40" name="suggestion_type" type="string"/>
     </element>
 </database>
