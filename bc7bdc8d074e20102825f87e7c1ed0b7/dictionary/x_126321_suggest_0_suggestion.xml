@@ -14,9 +14,13 @@
             </choice>
         </element>
         <element label="Submission date" max_length="40" name="submission_date" type="glide_date"/>
+        <element label="Suggested by" max_length="32" name="suggested_by" reference="sys_user" type="reference"/>
         <element label="Suggestion" max_length="125" name="suggestion" type="string"/>
         <element label="Type" max_length="32" name="type" reference="x_126321_suggest_0_suggestion_type" type="reference"/>
         <index name="index">
+            <element name="suggested_by"/>
+        </index>
+        <index name="index2">
             <element name="type"/>
         </index>
     </element>
