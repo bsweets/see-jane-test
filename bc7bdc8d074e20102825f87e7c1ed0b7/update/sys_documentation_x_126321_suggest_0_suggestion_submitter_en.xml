@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="suggested_by" label="Suggested by" language="en" table="x_126321_suggest_0_suggestion">
+    <sys_documentation element="submitter" label="Submitter" language="en" table="x_126321_suggest_0_suggestion">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>suggested_by</element>
+            <element>submitter</element>
             <help/>
             <hint/>
-            <label>Suggested by</label>
+            <label>Submitter</label>
             <language>en</language>
             <name>x_126321_suggest_0_suggestion</name>
-            <plural>Suggested by</plural>
+            <plural>Submitters</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-29 22:27:29</sys_created_on>
-            <sys_id>94a8190d070260102825f87e7c1ed01c</sys_id>
+            <sys_created_on>2021-02-08 15:22:01</sys_created_on>
+            <sys_id>512753cc071660102825f87e7c1ed0e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Suggested by</sys_name>
+            <sys_name>Submitter</sys_name>
             <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
             <sys_policy/>
             <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
-            <sys_update_name>sys_documentation_x_126321_suggest_0_suggestion_suggested_by_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_126321_suggest_0_suggestion_submitter_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-29 22:27:29</sys_updated_on>
+            <sys_updated_on>2021-02-08 15:22:01</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

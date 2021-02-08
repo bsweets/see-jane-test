@@ -3,7 +3,7 @@
         <batch_size>1000</batch_size>
         <category/>
         <connection_timeout>0</connection_timeout>
-        <connection_url>attachment://sys_data_source:310d1001078e20102825f87e7c1ed0d2/suggestioncategory.xlsx</connection_url>
+        <connection_url>attachment://sys_data_source:d16517c8071660102825f87e7c1ed0cc/suggestiontype.xlsx</connection_url>
         <connection_url_parameters/>
         <csv_delimiter/>
         <data_in_single_column>false</data_in_single_column>
@@ -18,13 +18,13 @@
         <database_port/>
         <discard_arrays>true</discard_arrays>
         <expand_node_children>false</expand_node_children>
-        <file_path>suggestioncategory.xlsx</file_path>
+        <file_path>suggestiontype.xlsx</file_path>
         <file_retrieval_method>Attachment</file_retrieval_method>
         <format>Excel</format>
         <glide_keystore>false</glide_keystore>
         <header_row>1</header_row>
         <import_set_table_label/>
-        <import_set_table_name>x_126321_suggest_0_1611943625331</import_set_table_name>
+        <import_set_table_name>x_126321_suggest_0_1612797262380</import_set_table_name>
         <instance_name/>
         <jdbc_password/>
         <jdbc_server/>
@@ -38,7 +38,7 @@
         <limit/>
         <maximum_rows/>
         <mid_server/>
-        <name>suggestioncategory.xlsx (Uploaded)</name>
+        <name>suggestiontype.xlsx (Uploaded)</name>
         <offset>0</offset>
         <oracle_port>1521</oracle_port>
         <oracle_sid>orcl</oracle_sid>
@@ -58,16 +58,16 @@
         <support_pagination>false</support_pagination>
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-29 18:07:05</sys_created_on>
-        <sys_id>310d1001078e20102825f87e7c1ed0d2</sys_id>
+        <sys_created_on>2021-02-08 15:14:22</sys_created_on>
+        <sys_id>d16517c8071660102825f87e7c1ed0cc</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>suggestioncategory.xlsx (Uploaded)</sys_name>
+        <sys_name>suggestiontype.xlsx (Uploaded)</sys_name>
         <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
-        <sys_update_name>sys_data_source_310d1001078e20102825f87e7c1ed0d2</sys_update_name>
+        <sys_update_name>sys_data_source_d16517c8071660102825f87e7c1ed0cc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 18:07:07</sys_updated_on>
+        <sys_updated_on>2021-02-08 15:14:24</sys_updated_on>
         <table_name/>
         <type>File</type>
         <use_batch_import>false</use_batch_import>
@@ -76,5 +76,5 @@
         <xpath_root_node/>
         <zipped>false</zipped>
     </sys_data_source>
-    <sys_variable_value action="delete_multiple" query="document_key=310d1001078e20102825f87e7c1ed0d2"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d16517c8071660102825f87e7c1ed0cc"/>
 </record_update>

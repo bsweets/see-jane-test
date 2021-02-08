@@ -2,8 +2,7 @@
     <element label="Suggestion" max_length="40" name="x_126321_suggest_0_suggestion" type="collection">
         <element label="Closed date" max_length="40" name="closed_date" type="glide_date"/>
         <element label="Description" max_length="4000" name="description" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
-        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+        <element choice="3" default="new" label="Status" max_length="40" name="status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="New" sequence="10" value="new"/>
                 <element inactive_on_update="false" label="Under Review" sequence="20" value="under_review"/>
@@ -14,11 +13,11 @@
             </choice>
         </element>
         <element label="Submission date" max_length="40" name="submission_date" type="glide_date"/>
-        <element label="Suggested by" max_length="32" name="suggested_by" reference="sys_user" type="reference"/>
-        <element label="Suggestion" max_length="125" name="suggestion" type="string"/>
+        <element label="Submitter" max_length="32" name="submitter" reference="sys_user" type="reference"/>
+        <element display="true" label="Suggestion" max_length="150" name="suggestion" type="string"/>
         <element label="Type" max_length="32" name="type" reference="x_126321_suggest_0_suggestion_type" type="reference"/>
         <index name="index">
-            <element name="suggested_by"/>
+            <element name="submitter"/>
         </index>
         <index name="index2">
             <element name="type"/>

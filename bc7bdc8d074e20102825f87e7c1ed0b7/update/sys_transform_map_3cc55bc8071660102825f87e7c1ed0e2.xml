@@ -13,19 +13,19 @@
 	// Add your code here
 
 })(source, target, map, log, action==="update");]]></script>
-        <source_table>x_126321_suggest_0_1611943625331</source_table>
+        <source_table>x_126321_suggest_0_1612797262380</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-29 18:07:45</sys_created_on>
-        <sys_id>ef2d108d074e20102825f87e7c1ed048</sys_id>
+        <sys_created_on>2021-02-08 15:15:59</sys_created_on>
+        <sys_id>3cc55bc8071660102825f87e7c1ed0e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_126321_suggest_0_suggestion_type_transform_map</sys_name>
         <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
-        <sys_update_name>sys_transform_map_ef2d108d074e20102825f87e7c1ed048</sys_update_name>
+        <sys_update_name>sys_transform_map_3cc55bc8071660102825f87e7c1ed0e2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 18:07:45</sys_updated_on>
+        <sys_updated_on>2021-02-08 15:15:59</sys_updated_on>
         <target_table>x_126321_suggest_0_suggestion_type</target_table>
     </sys_transform_map>
 </record_update>

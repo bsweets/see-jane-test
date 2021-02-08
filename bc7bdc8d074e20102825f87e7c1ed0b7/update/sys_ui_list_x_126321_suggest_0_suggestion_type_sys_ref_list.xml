@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_126321_suggest_0_suggestion_type" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>suggestion_type</element>
+            <list_id display_value="x_126321_suggest_0_suggestion_type" element="NULL" name="x_126321_suggest_0_suggestion_type" parent="NULL" relationship="NULL" sys_domain="global" view="e2f55342db13101066f3146139961901">ffc75bcc071660102825f87e7c1ed03a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 15:24:55</sys_created_on>
+            <sys_id>3fc75bcc071660102825f87e7c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 15:24:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_126321_suggest_0_suggestion_type</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 15:24:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffc75bcc071660102825f87e7c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_126321_suggest_0_suggestion_type</sys_name>
+            <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+            <sys_update_name>sys_ui_list_x_126321_suggest_0_suggestion_type_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 15:24:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">e2f55342db13101066f3146139961901</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
