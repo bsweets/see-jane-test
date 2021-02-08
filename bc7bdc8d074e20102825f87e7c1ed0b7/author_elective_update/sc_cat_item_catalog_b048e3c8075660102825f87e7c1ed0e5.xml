@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Suggestion">21572b88075660102825f87e7c1ed099</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 16:36:47</sys_created_on>
+        <sys_id>b048e3c8075660102825f87e7c1ed0e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Suggestion</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b048e3c8075660102825f87e7c1ed0e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 16:36:47</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</application>
+        <file_path/>
+        <instance_id>a0128ca6dbbe530089535d00cf96196d</instance_id>
+        <instance_name>dev62220</instance_name>
+        <name>sc_cat_item_catalog_b048e3c8075660102825f87e7c1ed0e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Suggestion">21572b88075660102825f87e7c1ed099</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-08 16:36:47</sys_created_on><sys_id>b048e3c8075660102825f87e7c1ed0e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Suggestion</sys_name><sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package><sys_policy/><sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope><sys_update_name>sc_cat_item_catalog_b048e3c8075660102825f87e7c1ed0e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-08 16:36:47</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1192576043</payload_hash>
+        <record_name>Service Catalog.Suggestion</record_name>
+        <reverted_from/>
+        <source>15f120c1078e20102825f87e7c1ed0d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 16:36:48</sys_created_on>
+        <sys_id>f848e3c8075660102825f87e7c1ed0e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1778280b1680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 16:36:48</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7048e3c8af566010f3cb9efe4fa8b7e8</update_guid>
+        <update_guid_history>7048e3c8af566010f3cb9efe4fa8b7e8:-1192576043</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Suggestion">b448e3c8075660102825f87e7c1ed0f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 16:36:48</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>5183593f261b41a9baaec70d442ef229</sys_id>
+        <sys_metadata>b048e3c8075660102825f87e7c1ed0e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Suggestion</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_parent display_value="Suggestion">21572b88075660102825f87e7c1ed099</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_scope_delete display_value="">07225f2ae52246188061f0bb28480640</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b048e3c8075660102825f87e7c1ed0e5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b048e3c8075660102825f87e7c1ed0e5">f848e3c8075660102825f87e7c1ed0e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 16:36:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
