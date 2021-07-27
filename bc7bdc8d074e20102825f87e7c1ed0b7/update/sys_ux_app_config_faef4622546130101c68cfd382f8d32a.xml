@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default_route_type/>
+        <description>A Workspace to manage Suggestions</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Suggestion Box Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-27 17:59:43</sys_created_on>
+        <sys_id>faef4622546130101c68cfd382f8d32a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestion Box Config</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_ux_app_config_faef4622546130101c68cfd382f8d32a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-27 17:59:43</sys_updated_on>
+    </sys_ux_app_config>
+</record_update>

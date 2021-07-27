@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Suggestion Box">7aef462290613010ab02a267696f692c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-27 17:59:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>feef46227761301034cb2f5c6f05ce2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_ux_page_property_feef46227761301034cb2f5c6f05ce2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-27 17:59:43</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_126321_suggest_0.7aef462290613010ab02a267696f692c.root.globalSearchDataConfigId</unique_name>
+        <value>4961e3e7871033000929717936cb0ba7</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=feef46227761301034cb2f5c6f05ce2c"/>
+</record_update>

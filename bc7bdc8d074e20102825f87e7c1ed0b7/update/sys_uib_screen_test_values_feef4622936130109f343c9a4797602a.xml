@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config/>
+        <screen display_value="List Default">beef4622b8613010f8a537d061586a2a</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-27 17:59:43</sys_created_on>
+        <sys_id>feef4622936130109f343c9a4797602a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_feef4622936130109f343c9a4797602a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-27 17:59:43</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
