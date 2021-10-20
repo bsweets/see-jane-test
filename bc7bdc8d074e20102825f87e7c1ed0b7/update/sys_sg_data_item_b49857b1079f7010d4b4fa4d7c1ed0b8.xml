@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Open Suggestions Data Item</name>
+        <query_condition table="x_126321_suggest_0_suggestion">statusNOT INimplemented,deferred,declined<item display_value="implemented,deferred,declined" endquery="false" field="status" goto="false" newquery="false" operator="NOT IN" or="false" value="implemented,deferred,declined"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 15:11:35</sys_created_on>
+        <sys_id>b49857b1079f7010d4b4fa4d7c1ed0b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Suggestions Data Item</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_data_item_b49857b1079f7010d4b4fa4d7c1ed0b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 15:11:35</sys_updated_on>
+        <table>x_126321_suggest_0_suggestion</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b49857b1079f7010d4b4fa4d7c1ed0b8"/>
+</record_update>

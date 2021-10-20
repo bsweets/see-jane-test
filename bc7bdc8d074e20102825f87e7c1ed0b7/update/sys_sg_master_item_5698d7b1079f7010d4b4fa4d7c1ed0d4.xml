@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_126321_suggest_0_suggestion</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My Suggestions Form Screen">8e98d7b1079f7010d4b4fa4d7c1ed0cf</embedded_screen>
+        <item_view/>
+        <name>My Suggestions Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 15:11:41</sys_created_on>
+        <sys_id>5698d7b1079f7010d4b4fa4d7c1ed0d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Suggestions Form Screen Master Item</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_master_item_5698d7b1079f7010d4b4fa4d7c1ed0d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 15:11:41</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Suggestions List Screen View Config">2598d7b1079f7010d4b4fa4d7c1ed047</view_config>
+    </sys_sg_master_item>
+</record_update>

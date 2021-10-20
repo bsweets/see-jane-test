@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Approved Suggestions Data Item">b6981bb1079f7010d4b4fa4d7c1ed0ba</data_item>
+        <interleaved_field/>
+        <name>1b985bb1079f7010d4b4fa4d7c1ed043 Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 15:11:45</sys_created_on>
+        <sys_id>53985bb1079f7010d4b4fa4d7c1ed047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b985bb1079f7010d4b4fa4d7c1ed043 Item Stream</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_53985bb1079f7010d4b4fa4d7c1ed047</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 15:11:45</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>
