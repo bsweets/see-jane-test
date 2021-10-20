@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>submitter-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 19:18:59</sys_created_on>
+        <sys_id>3c31588e0713b010d4b4fa4d7c1ed076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>submitter-FieldValue</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3c31588e0713b010d4b4fa4d7c1ed076</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 19:18:59</sys_updated_on>
+        <view_config display_value="Approved Suggestions Detail Screen View Config">7c31588e0713b010d4b4fa4d7c1ed075</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

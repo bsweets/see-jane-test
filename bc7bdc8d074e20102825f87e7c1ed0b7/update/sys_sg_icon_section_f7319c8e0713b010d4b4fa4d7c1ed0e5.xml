@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>e431188e0713b010d4b4fa4d7c1ed038,0d31588e0713b010d4b4fa4d7c1ed0e1,ee31d88e0713b010d4b4fa4d7c1ed0fa,df315c8e0713b010d4b4fa4d7c1ed0d5</applets>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 19:19:11</sys_created_on>
+        <sys_id>f7319c8e0713b010d4b4fa4d7c1ed0e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestion</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_icon_section_f7319c8e0713b010d4b4fa4d7c1ed0e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 19:19:11</sys_updated_on>
+        <table/>
+        <title>Suggestion</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>
