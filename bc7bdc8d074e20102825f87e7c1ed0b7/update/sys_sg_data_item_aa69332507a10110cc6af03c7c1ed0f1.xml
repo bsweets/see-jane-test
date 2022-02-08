@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Approved Suggestions Data Item</name>
+        <query_condition table="x_126321_suggest_0_suggestion">statusINin_progress,implemented<item display_value="in_progress,implemented" endquery="false" field="status" goto="false" newquery="false" operator="IN" or="false" value="in_progress,implemented"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>me.niedzielski</sys_created_by>
+        <sys_created_on>2022-02-08 19:17:51</sys_created_on>
+        <sys_id>aa69332507a10110cc6af03c7c1ed0f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approved Suggestions Data Item</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_data_item_aa69332507a10110cc6af03c7c1ed0f1</sys_update_name>
+        <sys_updated_by>me.niedzielski</sys_updated_by>
+        <sys_updated_on>2022-02-08 19:17:51</sys_updated_on>
+        <table>x_126321_suggest_0_suggestion</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa69332507a10110cc6af03c7c1ed0f1"/>
+</record_update>

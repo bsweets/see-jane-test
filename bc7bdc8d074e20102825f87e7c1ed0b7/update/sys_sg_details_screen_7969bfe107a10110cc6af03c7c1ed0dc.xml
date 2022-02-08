@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Thumbs-Down">7969bfe107a10110cc6af03c7c1ed0d9</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>me.niedzielski</sys_created_by>
+        <sys_created_on>2022-02-08 19:17:48</sys_created_on>
+        <sys_id>7969bfe107a10110cc6af03c7c1ed0dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_details_screen_7969bfe107a10110cc6af03c7c1ed0dc</sys_update_name>
+        <sys_updated_by>me.niedzielski</sys_updated_by>
+        <sys_updated_on>2022-02-08 19:17:48</sys_updated_on>
+        <table>x_126321_suggest_0_suggestion</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7969bfe107a10110cc6af03c7c1ed0dc"/>
+</record_update>

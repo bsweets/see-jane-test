@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Rejected Suggestions)">0a69ffe107a10110cc6af03c7c1ed016</button>
+        <item_parameter display_value="Rejected Suggestions submission_date">3169ffe107a10110cc6af03c7c1ed010</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>me.niedzielski</sys_created_by>
+        <sys_created_on>2022-02-08 19:17:48</sys_created_on>
+        <sys_id>4269ffe107a10110cc6af03c7c1ed021</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3169ffe107a10110cc6af03c7c1ed010</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_126321_suggest_0">bc7bdc8d074e20102825f87e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">bc7bdc8d074e20102825f87e7c1ed0b7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4269ffe107a10110cc6af03c7c1ed021</sys_update_name>
+        <sys_updated_by>me.niedzielski</sys_updated_by>
+        <sys_updated_on>2022-02-08 19:17:48</sys_updated_on>
+        <ui_parameter display_value="Submission date">4e69ffe107a10110cc6af03c7c1ed01b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
